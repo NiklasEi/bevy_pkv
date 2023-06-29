@@ -95,13 +95,13 @@ The `main` branch targets the latest bevy release.
 
 I intend to support the `main` branch of Bevy in the `bevy-main` branch.
 
-|bevy|bevy\_pkv|
-|----|---|
-|0.10|0.7, main|
-|0.9 |0.6|
-|0.8 |0.5|
-|0.7 |0.2, 0.3, 0.4|
-|0.6 |0.1|
+| bevy | bevy\_pkv     |
+|------|---------------|
+| 0.10 | 0.7, main     |
+| 0.9  | 0.6           |
+| 0.8  | 0.5           |
+| 0.7  | 0.2, 0.3, 0.4 |
+| 0.6  | 0.1           |
 
 ## License
 
